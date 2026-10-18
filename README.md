@@ -4,7 +4,7 @@ A custom 3D-printable enclosure designed from scratch for **Starbie**, an ESP32-
 
 ---
 
-## 🛠️ Project Overview
+## Project Overview
 The goal of this enclosure was to house an ESP32 development board, internal wiring, and battery pack securely while maintaining a clean, toy-like aesthetic. 
 
 ### Key Design Features:
