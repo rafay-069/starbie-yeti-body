@@ -1,6 +1,7 @@
 # Starbie - Yeti Companion Robot Enclosure
 
 A custom 3D-printable enclosure designed from scratch for **Starbie**, an ESP32-powered companion robot and voice assistant project. 
+its inspired by a creator i made the model by watching tutorial because i am not a expect in creating CAD content you guys can make a custom model by urself 
 
 ---
 
